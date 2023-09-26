@@ -3,7 +3,6 @@ using BlogTracker.Data;
 using BlogTracker.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Internal;
 using Moq;
 using NUnit.Framework;
 

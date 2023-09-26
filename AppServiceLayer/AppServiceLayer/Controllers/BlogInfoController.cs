@@ -1,6 +1,5 @@
 ﻿using BlogTracker.Data;
 using BlogTracker.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
